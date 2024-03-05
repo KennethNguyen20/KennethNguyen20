@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi, I'm Kenneth Nguyen
+### 📫 Reach me at: KeywordKenneth@gmail.com
 
 <!--
 **KennethNguyen20/KennethNguyen20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
